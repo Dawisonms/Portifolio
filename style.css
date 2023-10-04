@@ -22,7 +22,7 @@
 body{
     
     background-color: var(--Azul-5-hex);
-    margin-left: 40px;
+    margin-left: 10px;
     list-style-position: inside;
 }
 
@@ -54,8 +54,8 @@ p{
 }
 
 div{
-    min-width: 450px;
-    max-width: 1000px;
+    min-width: 300px;
+    max-width: 800px;
     display: flex;
     flex-direction: row;
     justify-content:space-around;
@@ -73,7 +73,7 @@ main{
     width: auto;
     text-indent: 20px;
     border-radius: 0px 10px 10px 0px;
-    margin-left: 10px;
+    
       
     
 }
@@ -90,7 +90,7 @@ nav{
     list-style-position: inside;
     text-indent: 10px;
     border-radius: 10px 0px 0px 10px;
-    padding-right:80px;
+    padding-right:20px;
 }
 
 ul{
